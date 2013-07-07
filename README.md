@@ -29,5 +29,6 @@ TODO
  - 写一份详细的使用说明。
  - 制作文档类。
 
-Screenshot:
+Screenshot
+--------
 ![screenshot](screenshot.png)
