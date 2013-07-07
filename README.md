@@ -32,3 +32,10 @@ TODO
 Screenshot
 --------
 ![screenshot](screenshot.png)
+
+有任何问题欢迎随时联系
+
+<xiaowangzi61@gmail.com>
+
+[caigen@LilyBBS](http://bbs.nju.edu.cn/bbsqry?userid=caigen) or 
+[pkuphy@LilyBBS](http://bbs.nju.edu.cn/bbsqry?userid=pkuphy)
